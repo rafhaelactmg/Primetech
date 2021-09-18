@@ -29,6 +29,8 @@ public class AcessarCalculadora {
 		InsereNumero inserir = new InsereNumero();
 
 		inserir.insereNum();
+		
+		//teste
 
 	}
 
