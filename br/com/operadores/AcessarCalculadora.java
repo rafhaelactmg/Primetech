@@ -30,7 +30,7 @@ public class AcessarCalculadora {
 
 		inserir.insereNum();
 		
-		//teste
+		
 
 	}
 
